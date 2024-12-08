@@ -1,2 +1,0 @@
-# PracticeJavaSelenium
-Practice makes perfect
